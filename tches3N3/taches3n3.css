@@ -1,0 +1,342 @@
+/* .grandmere{
+    
+    
+    width:1250px;
+    height: 500px;
+    background-color: aqua;
+} */
+.mere{
+    border: 1px solid black;
+    /* padding: 50px; */
+    width: 900px;
+        height: 600px;
+    /* background-color: red; */
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    margin-top:25px;
+}
+.fille1{
+background-color: rgba(63, 7, 7, 0.918);
+width: 60%;
+}
+.fille2{
+background-color: rgb(71, 7, 7);
+width: 40%;
+}
+img{
+    width: 100%;
+    height: 100%;
+}
+h1{
+    margin-top: 70px;
+    color: #fff;
+    font-size: 20px;
+    margin-left: 50px; 
+}
+.label{
+    font-size: 16px;
+    margin-left: 50px;
+    color:rgb(218, 99, 99) ;
+}
+.input{
+    background-color:rgb(71, 7, 7);
+    border: none;
+    border-bottom: 1px solid rgb(218, 99, 99);
+    width: 70%;
+    margin-left: 50px;
+    margin-bottom: 20px;
+}
+label{
+    
+    font-size: 16px;
+    /* margin-left: 50px; */
+    color: rgb(247, 247, 247);
+    margin-top: 20px;
+    height: 25%;
+    font-size: 13px;
+    
+}
+input{
+    background-color: rgb(71, 7, 7);
+    border: none;
+    border-bottom: 1px solid rgb(255, 255, 255);
+    width: 70%;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    height:2%;
+    margin-top: -10px;
+    width: 100%;
+    margin: auto;
+    
+}
+.div{
+    width: 70%;
+    height: 50px;
+    /* background-color: red; */
+    margin-bottom: 10px;
+    margin-left: 50px;
+
+}
+.div1{
+    width: 70%;
+    height: 50px;
+    /* background-color: red; */
+    margin-bottom: 10px;
+    margin-left: 50px;
+    display: flex;
+    flex-direction: row;
+    /* border-bottom: 1px solid #fff; */
+}
+.input1{
+    /* background-color: rgb(71, 7, 7); */
+    border: none;
+    border-bottom: 1px solid rgb(255, 255, 255);
+    width: 70%;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    height: 2%;
+    margin-top: -10px;
+    width: 146%;
+    margin: auto;
+    
+}
+.er{
+    margin-left: 70px;
+    color: #fff;
+}
+p{
+    margin-left: 50px;
+    color: #fff;
+    font-size: 13px;
+}
+
+.op{
+    width: 80%;
+    height: 10%;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+   
+}
+.divone{
+        margin-left: 3px;
+        margin-top: 4px;
+        width: 30px;
+        height: 30px;
+        border: 1px solid rgb(218, 94, 12);
+        border-radius: 50px 50px;
+        background-color:rgb(218, 94, 12);
+        margin-right: 20px;
+        margin-top: 6px;
+}
+ .pepe2 {
+     margin-top: -25px;
+     margin-left: 15px;
+     color: #fff;
+ }
+.divtwo{
+    width: 80px;
+    height: 35px;
+    background-color: rgb(218, 94, 12);
+    border: 1px solid rgb(218, 94, 12);
+    border-radius: 50px 50px;
+    margin-left: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-left: 4px;
+    margin-left: -30px;
+    margin-top: 4px;
+    
+}
+
+.ptitfils{
+    margin-left: 3px;
+    width: 30px;
+    height: 30px;
+    border: 1px solid rgb(218, 94, 12);
+    border-radius: 50px 50px;
+    background-color:rgb(71, 7, 7);
+    margin-left: -28px;
+    margin-top: -34px;
+   
+   
+    
+}
+.co{
+    margin-top: 5px;
+    margin-left: 30px;
+    
+}
+.rob{
+    margin-top:5px;
+    margin-left: 10px;
+color: #fff;
+}
+.divthree{
+    width: 30px;
+    height: 30px;
+    background-color:rgb(218, 94, 12);
+    border: 1px solid rgb(218, 94, 12);
+    border-radius: 50px 50px;
+    margin-left: -10px;
+    margin-top: 6px;
+    }
+.pepe6 {
+    margin-top: -25px;
+    color: #fff;
+}
+.divfor{
+    width: 30px;
+        height: 30px;
+        background-color: rgb(218, 94, 12);
+        border: 1px solid rgb(218, 94, 12);
+        border-radius: 50px 50px;
+        margin-left: -8px;
+        margin-top: 6px;
+    }
+         .pepe8 {
+             margin-left: 3px;
+             margin-top: -25px;
+             color: #fff;
+         }
+    .divfive{
+            width: 30px;
+            height: 30px;
+            background-color: rgb(218, 94, 12);
+            border: 1px solid rgb(218, 94, 12);
+            border-radius: 50px 50px;
+            margin-left: -8px;
+            margin-top: 6px;
+    }
+    .pepe10{
+        margin-top: -25px;
+        color: #fff;
+    }
+   #submit{
+    background-color:rgb(218, 94, 12) ;
+    width: 100px;
+    height: 35px;
+
+   }
+   .crok{
+    margin-top: 20px;
+    /* background-color: aqua; */
+    width: 50%;
+    min-height: 5%;
+    margin-left: 55px;
+    display: flex;
+    justify-content:flex-start;
+   }
+   .thelast{
+    font-size: 13px;
+    color: rgb(218, 94, 12);
+   }
+   @media only screen and (max-width: 525px) {
+    .mere{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+    .fille1{
+        width: 100%;
+        height: 30%;
+    }
+    .fille2{
+        width: 100%;
+        height:550px;
+        padding-bottom: 100px;
+    }
+    
+     
+
+       /* .mail {
+           width: 50px;
+       }
+
+       textarea {
+           min-width: 25px;
+           max-width: 50px;
+       } */
+
+       #submit {
+           width: 100%;
+           height: 100%;
+       }
+   }
+        @media only screen and (min-width: 526px){
+            .mere{
+                margin-top: 100px;
+                width: 100%;
+                display: flex;
+                flex-direction: column;
+            }
+            .fille2{
+                width: 100%;
+                padding-bottom: 100px;
+            }
+            .fille1{
+                width: 100%;
+            }
+            .input{
+                width: 46%;
+            }
+            .pone{
+                width: 66%;
+            }
+            .jumelle{
+                margin-left: 15%;
+            }
+            .op{
+                /* background-color: black; */
+                width: 50%;
+                margin-right:45%;
+            }
+                         
+        }
+@media only screen and (min-width: 1024px){
+.mere{
+    width: 70%;
+    height: 550px;;
+    display: flex;
+    flex-direction: row;
+   
+}
+.fille1{
+    width: 60%;
+    height: 100%;
+
+}
+.fille2{
+    width: 40%;
+    height: 100%;
+   padding: 0%;
+}
+.op{
+    margin-left:15%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 80%;
+    /* background-color: blue; */
+}
+.jumelle{
+    margin-right: 60px;
+    margin-left: -0px;
+}
+.input{
+    width:65%;
+    
+}
+.pone{
+width: 92%;
+}
+h1{
+    width: 100%;
+}
+}
+    
+   
+
